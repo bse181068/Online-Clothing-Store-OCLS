@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://www.OCLS.com/html/styles.css">
+</head>
+<body>
+
+<h1>View Store</h1>
+</body>
+</html>
+

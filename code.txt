@@ -1,0 +1,28 @@
+<div class="row">
+
+  <div class="leftcolumn">
+
+    <div class="card">
+
+ <button onclick="document.location='default.asp'">Click here</button>
+      <h1>Welcome To Online Clothing Store</h1>
+      <h2>ABOUT US</h2>
+
+      <p> online clothing store helps you to sell and purchase your favourite item without any difficulty of going on shop to purchase items</p>
+
+    </div>
+
+  
+  <div class="rightcolumn">
+
+    <div class="card">
+
+      <h2>CONTACT US</h2>
+
+           <p>FOR FURTHER INFORMATION FEEL FREE TO CONTCT US.</p>
+
+    </div>
+
+</body>
+
+</html>

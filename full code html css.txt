@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<div class="Online Clothing Store">
+  <h1>Online Clothing Store</h1>
+ <link rel="stylesheet" href="visit store">
+</div>
+<div class="topnav">
+  <a href="#">Visit Store</a>
+  <a href="#">Purchase Items</a>
+  <a href="#">Sell Item</a>
+  <a href="#">Info</a>
+  <a href="#">About</a>
+  <a href="#">Contact Us</a>
+</div>
+
+<p>Click the button to go to visit store.</p>
+
+  <button onclick="document.location='default.asp'">View Store</button>
+  <link rel="stylesheet" href="View store">
+
+</body>
+</html>
+
